@@ -6,4 +6,8 @@ function getTasks() {
     return tasks;
 }
 
-module.exports = { getTasks };
+function addTask(taskData) {
+    return { id: 1, title: taskData.title };
+}
+
+module.exports = { getTasks, addTask };
