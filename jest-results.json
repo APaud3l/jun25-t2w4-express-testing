@@ -1,0 +1,74 @@
+{
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTestSuites": 1,
+  "numPassedTests": 2,
+  "numPendingTestSuites": 0,
+  "numPendingTests": 0,
+  "numRuntimeErrorTestSuites": 0,
+  "numTodoTests": 0,
+  "numTotalTestSuites": 1,
+  "numTotalTests": 2,
+  "openHandles": [],
+  "snapshot": {
+    "added": 0,
+    "didUpdate": false,
+    "failure": false,
+    "filesAdded": 0,
+    "filesRemoved": 0,
+    "filesRemovedList": [],
+    "filesUnmatched": 0,
+    "filesUpdated": 0,
+    "matched": 0,
+    "total": 0,
+    "unchecked": 0,
+    "uncheckedKeysByFile": [],
+    "unmatched": 0,
+    "updated": 0
+  },
+  "startTime": 1764374202268,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [],
+          "duration": 12,
+          "failing": false,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "should return empty array initially",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "startAt": 1764374203131,
+          "status": "passed",
+          "title": "should return empty array initially"
+        },
+        {
+          "ancestorTitles": [],
+          "duration": 2,
+          "failing": false,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "should add the first task",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 2,
+          "retryReasons": [],
+          "startAt": 1764374203147,
+          "status": "passed",
+          "title": "should add the first task"
+        }
+      ],
+      "endTime": 1764374203152,
+      "message": "",
+      "name": "/home/aamod/2025-JUN/T2B1/jun25-t2w4-express-testing/tests/utils.test.js",
+      "startTime": 1764374202409,
+      "status": "passed",
+      "summary": ""
+    }
+  ],
+  "wasInterrupted": false
+}
